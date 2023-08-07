@@ -1,0 +1,13 @@
+3
+q0 q1 q2
+2 
+a b
+x
+4
+q0 q0 a lambda x
+q0 q1 b x lambda
+q1 q1 b x lambda
+q1 q2 # Z lambda
+q0
+1
+q2

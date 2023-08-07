@@ -1,0 +1,15 @@
+4
+A B C D
+2
+0 -
+X
+6
+A A 0 lambda X
+A B - lambda lambda
+B B - lambda lambda
+B C 0 X lambda
+C C 0 X lambda
+C D # Z lambda
+A
+1
+D
