@@ -1,7 +1,11 @@
-## Deterministic counter pushdown automata
+# Deterministic counter pushdown automata
 An implementation of a deterministic counter pushdown automata using python
-
 ![image](https://github.com/EcolaTan/DPDA_STALGCM/assets/91467425/7f4da50f-b368-4737-b31c-4bcd75f28bc8)
+
+### Group members
+- Dy, Sealtiel
+- Ong, Camron
+- Tan, Arvin
 
 ### Instructions
 - Make sure you have the following libraries (**tkinter**, **threading**, **time**, **os.path**, **customkinter**)
