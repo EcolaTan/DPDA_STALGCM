@@ -180,7 +180,6 @@ def run_steps_thread():
 
 def run_step(input_string, idx):
     global pda
-    pda.step = pda.step + 1
     
     while idx < len(entry.get() + "#") and pda.possible and pda.stack:
         step_machine()
