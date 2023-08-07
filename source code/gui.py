@@ -1,3 +1,7 @@
+# Dy, Sealtiel
+# Ong, Camron
+# Tan, Arvin
+
 import tkinter as tk
 import threading
 import time
