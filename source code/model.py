@@ -1,3 +1,7 @@
+# Dy, Sealtiel
+# Ong, Camron
+# Tan, Arvin
+
 class PDA:
     def __init__(self):
         self.alphabet = []
